@@ -2,7 +2,7 @@
 
 ## [Wireless e-stop][1]  
 Interlock:
-![](https://github.com/EE3-DTPRJ-Robot-Intelligence/Documentation-draft/blob/master/Estop/relay.png)
+![](https://github.com/EE3-DTPRJ-Robot-Intelligence/Estop/blob/master/relay.png)
 
 
 Connect jumper pin 1 and 2.
@@ -14,7 +14,7 @@ Power line → buck (12V output) → (+(yellow) -(grey)) of wireless e-stop
 mbed signal (red) → e-stop (pink) → wireless e-stop → mbed signal (black)  
 
 The following circuit diagram is shown below.  
-![](https://github.com/EE3-DTPRJ-Robot-Intelligence/Documentation-draft/blob/master/Estop/relay_c.PNG)
+![](https://github.com/EE3-DTPRJ-Robot-Intelligence/Estop/blob/master/relay_c.PNG)
 
 
 
