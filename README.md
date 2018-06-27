@@ -6,8 +6,11 @@ Interlock:
 
 
 Connect jumper pin 1 and 2.
-Relay: press one button is ON, press another button is OFF.
+Relay: press one button is ON, press another button is OFF.  
 
+
+### Note
+> On the Quickie robot, there is a Raspberry Pi and a mbed module. The Raspberry Pi is used to run Python scripts for robot control; the mbed receives the signals from the Raspberry Pi, then outputs corresponding signals to control the motors and brakes on Quickie.  
 
 ## Connection of wireless e-stop and e-stop
 Power line → buck (12V output) → (+(yellow) -(grey)) of wireless e-stop  
